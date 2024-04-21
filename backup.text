@@ -1,0 +1,17 @@
+MAIL_MAILER=smtp
+MAIL_HOST=sandbox.smtp.mailtrap.io
+MAIL_PORT=2525
+MAIL_USERNAME=eeb5e36c8911d6
+MAIL_PASSWORD=bc8b98942e267d
+MAIL_ENCRYPTION=tls
+MAIL_FROM_ADDRESS="jarunee.recc2@gmail.com"
+MAIL_FROM_NAME="${APP_NAME}"
+
+MAIL_MAILER=smtp
+MAIL_HOST=smtp.gmail.com
+MAIL_PORT=465
+MAIL_USERNAME=jarunee.recc2@gmail.com
+MAIL_PASSWORD=hezmnnunczgpkemm
+MAIL_ENCRYPTION=tls
+MAIL_FROM_ADDRESS="jarunee.recc2@gmail.com"
+MAIL_FROM_NAME="${APP_NAME}"
